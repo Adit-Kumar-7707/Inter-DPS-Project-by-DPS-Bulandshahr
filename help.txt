@@ -1,0 +1,10 @@
+--say "wake" to turn on cura--
+--say "bye" to turn off cura--
+--say "search on youtube" to play a first video in the search of youtube--
+--say "search on google" to search anything on google--
+--say "speech to text" to get a voice's text--
+--say "entertain me" to entertain yourself--
+_to open any app or website_
+just say this - "open <app name>"
+_here app name can be_
+--calculater , cmd , vscode , spotify , office , github , youtube , etc-etc--
